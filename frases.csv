@@ -1,0 +1,38 @@
+nivel,portugues,ingles,dica
+1,Você tem dinheiro?,Do you have money?,O 'y' de money tem som de 'i'
+1,Eu estou em casa.,I am home.,Pode falar rápido: 'I'm home'
+1,Onde está o caminhão?,Where is the truck?,O 'th' de 'the' tem som de 'd' suave
+1,Eu preciso da fatura.,I need the invoice.,'Invoice' é a nota ou fatura
+1,O prazo é amanhã.,The deadline is tomorrow.,'Deadline' é o prazo final
+1,O frete está caro.,The freight is expensive.,'Freight' soa como 'frêit'
+2,O que mais você tem?,What else do you have?,O 'T' de 'What' soa como 'R'
+2,Ninguém consegue resolver isso.,Nobody can solve it.,Junte: 'solve-it'
+2,Você tem o número do rastreio?,Do you have the tracking number?,Fale 'tracking-number' direto
+2,O carregamento está atrasado.,The loading is delayed.,'Delayed' é essencial para logística
+2,Nós precisamos reduzir os custos.,We need to reduce the costs.,'Costs' termina com som de 's' forte
+2,Qual é o tempo de trânsito?,What is the transit time?,Fale 'What-is' como 'Uóriz'
+2,Eu vou verificar o status agora.,I will check the status now.,'Status' soa como 'Sté-tus'
+3,Eu admito que estava errado.,I admit I was wrong.,'Admit' + 'I' vira 'Admi-rai'
+3,Você consegue lidar com isso sem mim?,Can you handle this without me?,'Handle' tem som de 'o' no final
+3,O motorista chegará hoje à noite.,The driver will arrive tonight.,'Arrive' termina com som de 'V' mudo
+3,Houve um erro no carregamento.,There was an error in the loading.,'There was' é o passado de 'há'
+3,Precisamos de uma cotação melhor.,We need a better quotation.,'Better' soa como 'Bérer'
+3,O navio partiu do porto.,The ship left the port.,'Left' é o passado de 'leave'
+4,Nós somos o cliente e não a transportadora.,We are the client and not the carrier.,'Carrier' é a transportadora
+4,Eu admito que o custo estava errado.,I admit the cost was wrong.,O 'W' de 'Wrong' é mudo
+4,Qual é a meta versus o realizado?,What is the target versus actual?,'Actual' significa realizado
+5,O plano de carga precisa de otimização.,The loading plan needs optimization.,'tion' tem som de 'shun'
+5,Estamos a analisar as rotas mais baratas.,We are analyzing the cheapest routes.,'Cheapest' é o superlativo de barato
+5,O simulador 3D ajuda no carregamento.,The 3D simulator helps with loading.,'Simulator' soa como 'Sim-iu-leitor'
+5,Esta é a nossa estratégia de frete.,This is our freight strategy.,'Strategy' soa como 'Stré-te-dji'
+nivel,portugues,ingles,dica
+1,O frete está caro,The freight is expensive,Freight = Frete / Expensive = Caro
+1,Onde está o caminhão?,Where is the truck?,Where = Onde / Truck = Caminhão
+2,O motorista chegou agora,The driver arrived now,Driver = Motorista / Arrived = Chegou
+2,Verifique a nota fiscal,Check the invoice,Check = Verificar / Invoice = Nota Fiscal
+3,A carga está atrasada,The cargo is delayed,Delayed = Atrasado / Cargo = Carga
+3,Qual é o prazo de entrega?,What is the deadline?,Deadline = Prazo final ou entrega
+4,O simulador 3D ajuda muito,The 3D simulator helps a lot,Simulator = Simulador / Helps = Ajuda
+4,A transportadora enviou o status,The carrier sent the status,Carrier = Transportadora / Sent = Enviou
+5,Precisamos reduzir os custos de rota,We need to reduce route costs,Reduce = Reduzir / Costs = Custos
+5,O carregamento do caminhão está otimizado,The truck loading is optimized,Loading = Carregamento / Optimized = Otimizado
